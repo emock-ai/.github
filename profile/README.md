@@ -1,6 +1,6 @@
 # Welcome to emock-ai 🚀
 
-![emock-ai Logo](https://yourdomain.com/path-to-logo.png)
+![emock-ai Logo](https://github.com/emock-ai/.github/blob/6ea51d609f6726cea2ec20cee10129fef42967de/brand/assets/emockAI-brand-assets/Logos/png/logo_default.png)
 
 ## Our Mission
 At **emock-ai**, we’re all about empowering developers to ace interviews with cutting-edge, open source tools. Our aim is to simulate real interview scenarios, sharpen your skills, and bring the fun back into preparation!
