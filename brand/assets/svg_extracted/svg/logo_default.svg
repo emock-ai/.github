@@ -1,0 +1,17 @@
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background Circle -->
+  <circle cx="100" cy="100" r="100" fill="#2C3E50"/>
+
+  <!-- Microphone Icon -->
+  <g fill="#FFFFFF">
+    <!-- Microphone Head -->
+    <circle cx="91" cy="120" r="9"/>
+    
+
+    <!-- Microphone Base -->
+   </g>
+
+  <!-- Organization Name Text -->
+  <text x="144" y="149" text-anchor="middle" font-family="Poppins, sans-serif" font-size="10" font-weight="222" fill="#FFFFFF">AI</text>
+  <text x="103" y="161" text-anchor="middle" font-family="Poppins, Montserrat, sans-serif" font-weight="888" font-size="20" fill="#FFFFFF">emock</text>
+</svg>
